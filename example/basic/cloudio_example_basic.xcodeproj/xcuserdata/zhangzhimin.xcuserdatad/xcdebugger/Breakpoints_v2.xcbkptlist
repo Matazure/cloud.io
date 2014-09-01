@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../cloudio/server.hpp"
+            timestampString = "431232849.974183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "of(const std::string &amp;path)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../cloudio/server.hpp"
+            timestampString = "431232855.922324"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "of(const std::string &amp;path)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)"
+                  moduleName = "server"
+                  urlString = "file:///Users/zhangzhimin/code/git/matazure/cloud.io/example/basic/../../cloudio/server.hpp"
+                  timestampString = "431232858.372469"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "95">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)::&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;)::~socket&gt;)()"
+                  moduleName = "server"
+                  urlString = "file:///Users/zhangzhimin/code/git/matazure/cloud.io/example/basic/../../cloudio/server.hpp"
+                  timestampString = "431232858.3728"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)::&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;)::~socket&gt;)()"
+                  moduleName = "server"
+                  urlString = "file:///Users/zhangzhimin/code/git/matazure/cloud.io/example/basic/../../cloudio/server.hpp"
+                  timestampString = "431232858.373117"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)::&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;)::socket&gt;)(&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;) const&amp;)"
+                  moduleName = "server"
+                  urlString = "file:///Users/zhangzhimin/code/git/matazure/cloud.io/example/basic/../../cloudio/server.hpp"
+                  timestampString = "431232858.373398"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)::&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;)::socket&gt;)(&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;) const&amp;)"
+                  moduleName = "server"
+                  urlString = "file:///Users/zhangzhimin/code/git/matazure/cloud.io/example/basic/../../cloudio/server.hpp"
+                  timestampString = "431232858.373585"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cloudio::server::of(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;)::&apos;lambda&apos;(std::__1::shared_ptr&lt;websocket::socket&gt;)::operator()(std::__1::shared_ptr&lt;websocket::socket&gt;) const"
+                  moduleName = "server"
+                  urlString = "file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1/memory"
+                  timestampString = "431232858.37377"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "3935"
+                  endingLineNumber = "3935"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
