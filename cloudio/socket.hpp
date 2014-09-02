@@ -95,10 +95,12 @@ namespace cloudio{
                 std::istringstream ss(msg);
                 boost::property_tree::ptree pt;
                 boost::property_tree::json_parser::read_json(ss, pt);
-                auto type = pt.get<std::string>("type");
-                auto data = pt.get<std::string>("data");
+                auto op_type = pt.get_optional<std::string>("type");
+                auto op_data = pt.get_optional<std::string>("data");
                 
-                self->_emit(type, data);
+                if (op_type && op_data){
+                    self->_emit(*op_type, *op_data);
+                }
             });
         }
         
