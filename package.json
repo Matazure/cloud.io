@@ -1,0 +1,29 @@
+{
+  "name": "cloud.io",
+  "description": "A communication module based on WebSocket",
+  "author": {
+    "name": "Matazure",
+    "email": "p3.1415@qq.com"
+  },
+  "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matazure/cloud.io.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Matazure/cloud.io/blob/master/LICENSE"
+    }
+  ],
+
+  "dependencies": {
+    "ws": ""
+  },
+
+  "main": "index",
+
+  "readmeFilename": "README.md",
+  "_id": "cloud.io@0.0.5",
+  "_from": "cloud.io@"
+}
