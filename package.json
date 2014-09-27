@@ -5,7 +5,7 @@
     "name": "Matazure",
     "email": "p3.1415@qq.com"
   },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/Matazure/cloud.io.git"
@@ -24,6 +24,6 @@
   "main": "index",
 
   "readmeFilename": "README.md",
-  "_id": "cloud.io@0.0.5",
+  "_id": "cloud.io@0.0.6",
   "_from": "cloud.io@"
 }
